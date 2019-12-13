@@ -7,6 +7,11 @@ An implementation of clojure's [walk](https://clojure.github.io/clojure/clojure.
 
 #### example 
 
+```sh
+npm install --save-dev @bhurlow/tree.walk
+yarn add @bhurlow/tree.walk
+```
+
 `postwalk` performs a depth-first post-order traversal of the provided (possibly nested) data structure. Uses provided function's return value in place of the original
 
 ```js
