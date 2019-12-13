@@ -1,0 +1,8 @@
+{
+  "name": "clj-tree-walk",
+  "version": "0.0.2",
+  "description": "clojure's walk functions for javascript ",
+  "main": "index.js",
+  "author": "Brian Hurlow",
+  "license": "MIT"
+}
