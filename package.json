@@ -1,6 +1,6 @@
 {
-  "name": "clj-tree-walk",
-  "version": "0.0.2",
+  "name": "tree.walk",
+  "version": "0.0.3",
   "description": "clojure's walk functions for javascript ",
   "main": "index.js",
   "author": "Brian Hurlow",
